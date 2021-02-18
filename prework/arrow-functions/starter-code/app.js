@@ -8,7 +8,7 @@ const theOldWay = function(course) {
 
 // TODO: Uncomment the following line of code to see the output in the browser console
 // console.log('The old way:', theOldWay('Code 301'));
-
+// push
 
 // STEP 2
 // We can refactor our first function to use an arrow function.
